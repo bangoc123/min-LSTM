@@ -12,7 +12,9 @@ pip install -r requirements.txt
 python train.py
 ```
 
-3) The result will looks like this:
+3) The result will look like this:
+
+
 
 ```
 668/668 ━━━━━━━━━━━━━━━━━━━━ 2s 2ms/step - acc: 0.9326 - loss: 0.1749 - val_acc: 0.7870 - val_loss: 0.6409
